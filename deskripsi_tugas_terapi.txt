@@ -1,0 +1,15 @@
+Dataset Terapi
+Rules dan Deskripsi Dataset
+1. Dataset ini sangat sedikit karena < 100 baris jadi diharapkan
+   TIDAK MENGHAPUS baris data.
+2. Target atribut dataset ini sangat imbalance jadi silakan menggunakan berbagai
+   metode untuk menangani imbalance class
+3. Untuk gender: 1 untuk male dan 2 untuk female
+   Untuk results: 0 untuk tidak ada kemajuan dan 1 untuk ada kemajuan
+4. Silakan membangun model Machine Learning dengan task baik 
+   Classification, Regression, atau Clustering.
+5. Silakan mengunggah notebook baik di e-learn maupun
+   di Github (online text). Pastikan sudah urut code cell-nya dan harus
+   sudah di- RUN ALL.
+
+Selamat mengerjakan.
